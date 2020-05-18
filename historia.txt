@@ -1,0 +1,23 @@
+commit 15209625627179f895fb28465b0924921ac34f1a
+Author: sagiraldogu <sagiraldogu@unal.edu.co>
+Date:   Mon May 18 01:42:00 2020 -0500
+
+    added gitignore
+
+commit 3ee5c1507ba4422f687071183c5dbd070138ecb2
+Author: sagiraldogu <sagiraldogu@unal.edu.co>
+Date:   Mon May 18 00:48:55 2020 -0500
+
+    agregar archivo
+
+commit d8215f63c437e58c8c7753b99651eee325a7113c
+Author: sagiraldogu <sagiraldogu@unal.edu.co>
+Date:   Mon May 18 00:47:09 2020 -0500
+
+     agregamos lineas
+
+commit 399f416e5ca0bf627a6f154d5cbd4a3a41d0dd7b
+Author: sagiraldogu <sagiraldogu@unal.edu.co>
+Date:   Mon May 18 00:44:48 2020 -0500
+
+    agregar commit a exercice.txt
